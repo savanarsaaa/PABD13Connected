@@ -1,0 +1,7 @@
+D:\Visual Studio\Connected\Connected\bin\Debug\Connected.exe.config
+D:\Visual Studio\Connected\Connected\bin\Debug\Connected.exe
+D:\Visual Studio\Connected\Connected\bin\Debug\Connected.pdb
+D:\Visual Studio\Connected\Connected\obj\Debug\Connected.csproj.AssemblyReference.cache
+D:\Visual Studio\Connected\Connected\obj\Debug\Connected.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Connected\Connected\obj\Debug\Connected.exe
+D:\Visual Studio\Connected\Connected\obj\Debug\Connected.pdb
